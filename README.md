@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar Sample Custom Rule for AWS Config
+Welcome to the AWS CodeStar Sample Custom Rule for AWS Config Sounak!
 =============================================================
 
 This sample code helps get you started with a custom rule in AWS Config. The custom rule in this sample
